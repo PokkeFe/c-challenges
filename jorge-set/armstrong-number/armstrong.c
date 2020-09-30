@@ -7,11 +7,12 @@ int is_armstrong(int num) {
         return 2;
     }
 
-    int digits = 0, temp = num, sum = 0;
+    int digits = 0, working_num = num, sum = 0, digit;
     int d_arr[12];
-    while(temp > 0) {
-        temp = temp / 10;
-        d_arr[digits] = temp;
+    while(working_num > 0) {
+        digit = working_num % 10;
+        working_num = working_num / 10;
+        d_arr[digits] = digit;
         digits++;
     }
 

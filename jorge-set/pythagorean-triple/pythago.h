@@ -1,0 +1,1 @@
+int is_pythagorean_triple(int x, int y, int z);

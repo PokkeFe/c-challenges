@@ -6,12 +6,15 @@ Set of challenges found at [Jorge's Beginner-Projects](https://github.com/jorgeg
 ## Completed
 
 * 99 Bottles
+* Armstrong Number
+* Pythagorean Triples Checker
+
+## WIP
+
 
 ## Todo
 
-* Armstrong Number
 * Magic 8 Ball
-* Pythagorean Triples Checker
 * Rock Paper Scissors Game
 * Coin Estimator By Weight
 * Mad Libs Story Maker
